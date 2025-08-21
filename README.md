@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **rudramohanty535@gmail.com**
   
-  🧑‍💻My Portfolio **https://manoj-mohanty.netlify.app/**
+  🧑‍💻My Portfolio **https://myportfolio-pi-kohl-59.vercel.app/**
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
